@@ -1,3 +1,3 @@
 Site, futuro http://www.coliseucopias.com.br/ 
 
-ALteração do readme para descrever melhor o meu sistema.
+Alteração do readme para descrever melhor o meu sistema.
